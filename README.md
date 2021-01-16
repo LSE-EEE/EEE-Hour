@@ -1,2 +1,2 @@
 # EEE Hour
-Ideas and notes from our weekly EEE Hour
+This repository captures the ideas and notes that come out of our weekly EEE Hour. 
