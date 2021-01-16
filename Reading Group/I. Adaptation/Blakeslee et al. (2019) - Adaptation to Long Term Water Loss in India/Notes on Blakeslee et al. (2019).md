@@ -1,6 +1,7 @@
 # Discussion notes on Blakeslee et al. (2019)
 *Tim Dobermann*
-* November 12, 2020*
+
+*November 12, 2020*
 
 * Use intensity measures of how many borewells failed in a village to get at the possible GE effects of water shortages
 
