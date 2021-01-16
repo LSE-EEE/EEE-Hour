@@ -1,11 +1,10 @@
 # Discussion notes on Blakeslee et al. (2019)
-**Tim Dobermann**
-
-NOVEMBER 12, 2020
+*Tim Dobermann*
+* November 12, 2020*
 
 * Use intensity measures of how many borewells failed in a village to get at the possible GE effects of water shortages
 
-* Is this climate change where *everyone* gets affected? Or just a case where only *some* are affected by water shortages?
+* Is this climate change where **everyone** gets affected? Or just a case where only **some** are affected by water shortages?
 
 * Complementarities across climate impacts: we should factor in not just water but also temperature, for instance; useless looking at one effect in isolation
 
