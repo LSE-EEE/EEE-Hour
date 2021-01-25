@@ -1,5 +1,6 @@
 # Discussion notes on Nath (2020)
 *Tim Dobermann*
+
 *November 19, 2020*
 
 * Why are there so many farmers? Its a job many can do. Involvement in agriculture is one of the biggest constraints to adaptation

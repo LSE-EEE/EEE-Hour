@@ -1,5 +1,6 @@
 # Discussion notes on Pankratz & Schiller (2019) 
 *Tim Dobermann*
+
 *November 26, 2020*
 
 * What is the ability of firms to pass these costs through?
