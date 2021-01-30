@@ -1,0 +1,3 @@
+# EEE Hour Recording #1 
+* January 21, 2021
+<https://lse.zoom.us/rec/share/FtMDv121p6VyhgA15NxLUEzOygUX3bluts3BMnplbAVeb8II3X-Q_7MqPAYBXVJs.c67-VxOkBbxf1HpB?startTime=1611230309000>
